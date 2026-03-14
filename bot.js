@@ -12,12 +12,6 @@ const icon = config.icon;
 const pets = config.pets;
 const eggs = config.eggs;
 
-/*
-
-	Made by Willy Vanderpool a.k.a. WillyV
-
-*/
-
 // Leaderboard
 let board = [];
 async function lb() {
